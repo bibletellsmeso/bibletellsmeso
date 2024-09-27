@@ -1,6 +1,6 @@
 ### Shalom, God bless you 👋
 
-and I am a Power system optimization and Real-time simulation with a strong passion for education!
+I am a 'Power system optimization' and 'Real-time simulation' passionate about research!
 
 - 🔭 As a student researcher at the [Korea Electrotechnology Research Insitute (KERI)]
 - 🎓 Now, I am in a Ph.D. course at the [Gwangju Institution of Science and Technology (GIST)]
